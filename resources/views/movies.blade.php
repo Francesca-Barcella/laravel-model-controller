@@ -1,7 +1,6 @@
 @extends('layouts.app')
 
 @section('content')
-<h1>prova main</h1>
 <div class="container">
     <div class="row row-cols-md-4 p-2 g-2 text-center">
         @forelse($movies as $movie)

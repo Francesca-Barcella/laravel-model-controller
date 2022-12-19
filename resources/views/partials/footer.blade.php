@@ -6,7 +6,7 @@
                 <ul>
                     <li>Movies</li>
                     <li>About</li>
-                    <li>Post</li>
+                    <li>News</li>
                     <li>Contact</li>
                 </ul>
             </div>

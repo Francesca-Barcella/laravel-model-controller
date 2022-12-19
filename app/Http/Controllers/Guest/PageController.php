@@ -14,4 +14,18 @@ class PageController extends Controller
         return view('movies', compact('movies'));
     }
 
+    public function about()
+    {
+        return view('about');
+    }
+
+    public function news()
+    {
+        return view('news');
+    }
+
+    public function contact()
+    {
+        return view('contact');
+    }
 }
