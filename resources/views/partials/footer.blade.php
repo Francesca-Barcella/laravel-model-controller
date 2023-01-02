@@ -1,4 +1,4 @@
-<header class="bg-dark text-light">
+<footer class="bg-dark text-light">
     <div class="container py-4">
         <div class="row">
             <div class="col-4">
@@ -19,4 +19,4 @@
             </div>
         </div>
     </div>
-</header>
+</footer>
